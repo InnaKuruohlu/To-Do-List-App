@@ -19,7 +19,7 @@ body {
 .container {
   width: 100%;
   max-width: 760px;
-  min-width: 430px;
+  min-width: 370px;
   background: #ffffff;
   border: 1px solid rgba(20,32,43,0.04);
   border-radius: 12px;
@@ -112,3 +112,4 @@ body {
   font-weight: 600;
   border-radius: 8px;
 }
+
